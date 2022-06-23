@@ -11,6 +11,8 @@ https://github.com/BistuOpenSource/OSSDT2021
 
 CCF GitLink开源编程夏令营 https://www.gitlink.org.cn/glcc 
 
+腾讯犀牛鸟开源人才培养计划 https://github.com/Tencent/OpenSourceTalent/
+
 Google 开源夏令营 https://summerofcode.withgoogle.com/
 
 ## 扩展资料
