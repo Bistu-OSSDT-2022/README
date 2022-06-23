@@ -33,6 +33,8 @@ https://leetcode.com/
 
 https://stackoverflow.com/
 
+https://segmentfault.com/
+
 https://www.kaggle.com/
 
 https://www.nowcoder.com/
