@@ -15,6 +15,17 @@ CCF GitLink开源编程夏令营 https://www.gitlink.org.cn/glcc
 
 Google 开源夏令营 https://summerofcode.withgoogle.com/
 
+## 软件
+https://code.visualstudio.com/
+https://gohugo.io/
+https://git-scm.com
+
+
+## 教程
+Git教程 https://www.liaoxuefeng.com/wiki/896043488029600
+Linux教程 https://www.w3cschool.cn/linux/
+
+
 ## 扩展资料
 电影：REVOLUTION OS( https://www.bilibili.com/video/av9512574 
 
