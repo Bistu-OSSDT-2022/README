@@ -25,7 +25,7 @@ https://git-scm.com
 Git教程 https://www.liaoxuefeng.com/wiki/896043488029600
 Linux教程 https://www.w3cschool.cn/linux/
 使用 Git 和 GitHub 的最佳方式 https://githubflow.github.io/
-
+https://www.progit.cn/
 
 ## 扩展资料
 电影：REVOLUTION OS( https://www.bilibili.com/video/av9512574 
