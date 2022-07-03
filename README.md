@@ -17,14 +17,19 @@ Google 开源夏令营 https://summerofcode.withgoogle.com/
 
 ## 软件
 https://code.visualstudio.com/
+
 https://gohugo.io/
+
 https://git-scm.com
 
 
 ## 教程
 Git教程 https://www.liaoxuefeng.com/wiki/896043488029600
+
 Linux教程 https://www.w3cschool.cn/linux/
+
 使用 Git 和 GitHub 的最佳方式 https://githubflow.github.io/
+
 https://www.progit.cn/
 
 ## 扩展资料
