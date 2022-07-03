@@ -32,6 +32,8 @@ Linux教程 https://www.w3cschool.cn/linux/
 
 https://www.progit.cn/
 
+https://codewords.recurse.com/issues/two/git-from-the-inside-out
+
 ## 扩展资料
 电影：REVOLUTION OS( https://www.bilibili.com/video/av9512574 
 
